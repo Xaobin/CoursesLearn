@@ -1,25 +1,19 @@
-<div style="background-image: url('https://github.com/Xaobin/CoursesLearn/blob/main/All/imgs/Img01.png?raw=true');">
 <h2> Courses to learn </h2>
-<br>
 Cursos em Vídeos, aprendizados, cheat Sheets
 <br>
 CSS, React, Flexbox, vue, laravel, node, etc.
-</div>
 <hr>
 <h3>React JS</h3>
-<br>
 <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/CheatSheet.md">Link to Cheat Sheets</a>
 <br>
 <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React.md">Link to Tutorial Basic</a>
 <hr>
 <h3>Flexbox CSS</h3>
-<br>
 <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/Flex/README.md">Link to Cheat Sheets</a>
 <br>
 <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/Flex/Flexbox.md">Link to Tutorial Basic</a>
 <hr>
 <h3>GRID CSS</h3>
-<br>
 <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/Grid/README.md">Link to Cheat Sheets</a>
 <br>
 <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/Grid/Grid.md">Link to Tutorial Basic</a>
