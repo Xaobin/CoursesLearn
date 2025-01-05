@@ -11,5 +11,38 @@
 <br>
 <a href="https://search.entireweb.com/search?engine=8&q=filetype%3Apdf+tailwind+css">EntireWeb Search Engine - Tailwind CSS - tutorials in PDF file</a><br>
 <br>
+<a href="https://mussumipsum.com/">Mussum Ipsum</a><br>
+<br>
+<a href="https://www.lipsum.com/">lorem ipsum</a><br>
+<br>
+<hr>
+<a href="https://play.tailwindcss.com/ClKUJ3blRo">Avaliação 1 - Backgrounds - outline - @apply - rounded - FLEX - flex-row item-center - ml-10</a><br>
+<br>
+<h4>Site com exemplos prontos feitos com Tailwind</h4>
+<href="https://tailwindflex.com">tailwindflex.com</a><>
+<href="https://tailwindflex.com/tag/grid">tailwindflex.com/tag/grid</a><>
 <br>
 <br>
+<hr>
+Link for the Tests<br>
+<a href="https://play.tailwindcss.com/ClKUJ3blRo">https://play.tailwindcss.com/ClKUJ3blRo</a><br>
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Tailwind/imgs/ttt01.png?raw=true" weight="490" height="210"><br>
+<h4>The CSS part</h4>
+<code>
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply rounded bg-blue-500 px-4 py-2
+font-bold text-white hover:bg-blue-700 active:bg-blue-800;
+}
+
+.myflex {
+  @apply ml-10 mt-10 h-16  flex flex-row items-center justify-center bg-gray-200  gap-4;
+}
+.myflex > div {
+  @apply flex-col bg-orange-500 h-10 w-10;
+}
+
+</code>
