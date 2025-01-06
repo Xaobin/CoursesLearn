@@ -1,6 +1,9 @@
 # Curso de FlexBox (capturado em video)
 =======================================
 
+<a href="https://github-com.translate.goog/Xaobin/CoursesLearn/blob/main/All/Flex/Flexbox.md?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp">Link for translate page (google)</a>
+<br>
+<br>
 A imagem a seguir mostra a arquitetura interna do FlexBox, X axis, Y axis. É o primeiro passo para aprender a usar esta tecnologia!.
 <br>
 <img weigth="500" heigth="400" src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Flex/imgs/Flex01.png?raw=true">
