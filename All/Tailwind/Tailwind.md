@@ -15,14 +15,10 @@
 <a href="https://duckduckgo.com/?q=tailwind+css+filetype%3Apdf&t=h_&ia=web">Duckduckgo - Tailwind CSS - tutorials in PDF file</a></li>
 <li>
 <a href="https://search.entireweb.com/search?engine=8&q=filetype%3Apdf+tailwind+css">EntireWeb Search Engine - Tailwind CSS - tutorials in PDF file</a></li>
+<li><a href="https://tailwindflex.com">tailwindflex.com (Examples)</a></li>
+<li><a href="https://tailwindflex.com/tag/grid">tailwindflex.com/tag/grid (Examples grid)</a></li> 
 </ul>
-<hr>
-<br>
-<h4>Sites with examples made with Tailwind</h4>
-<ul>
-<li><href="https://tailwindflex.com">tailwindflex.com</a></li>
-<li><href="https://tailwindflex.com/tag/grid">tailwindflex.com/tag/grid</a></li>
-</ul>
+
 <hr>
 <h3>Backgrounds - outline - @apply - rounded - FLEX - flex-row item-center - ml-10</h3>
 Link for the Tests<br>
