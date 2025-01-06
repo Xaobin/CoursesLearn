@@ -2,7 +2,7 @@
 
 <h4>Tutorial of Grid [PT-BR]</h4>
 <a href="https://github-com.translate.goog/Xaobin/CoursesLearn/blob/main/All/Grid/Grid.md?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp">Link to translate page (Google)</a>
-
+<br>
 <br>
 CSS Grid trouxe várias possibilidades para o desenvolvimento de layouts modernos. Veja como alinhar conteúdos com CSS Grid.<br>
 <br>
