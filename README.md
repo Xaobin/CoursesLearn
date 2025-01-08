@@ -1,7 +1,7 @@
 <h2> Courses to learn </h2>
-Cursos em Vídeos, aprendizados, cheat Sheets
+Courses, learning, cheat Sheets, etc
 <br>
-CSS, React, Flexbox, vue, laravel, node, etc.
+CSS, React, Flexbox, front end development, back end development
 <hr>
 <h3>React JS</h3>
 <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/CheatSheet.md">Link to Cheat Sheets</a>

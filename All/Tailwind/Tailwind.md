@@ -17,6 +17,8 @@
 <a href="https://search.entireweb.com/search?engine=8&q=filetype%3Apdf+tailwind+css">EntireWeb Search Engine - Tailwind CSS - tutorials in PDF file</a></li>
 <li><a href="https://tailwindflex.com">tailwindflex.com (Examples)</a></li>
 <li><a href="https://tailwindflex.com/tag/grid">tailwindflex.com/tag/grid (Examples grid)</a></li> 
+<li><a href="https://github.com/Vini0100/Tailwind-CSS">Tailwind css - basic to advanced [PT-BR]</a></li>
+<li><a href="https://duckduckgo.com/?t=h_&q=site%3Agithub.com+course+tailwind&ia=web">looking for courses</a></li>
 </ul>
 
 <hr>
@@ -52,3 +54,11 @@ font-bold text-white hover:bg-blue-700 active:bg-blue-800;
 <li>
 <a href="https://www.lipsum.com/">lorem ipsum</a></li>
 </ul>
+<hr>
+<h4>Projects made with Play>Tailwind</h4>
+&#187; <a href="https://play.tailwindcss.com/q6UQw13qXh">A login weell designed</a><br>
+&#187; <a href="https://play.tailwindcss.com/Xgi2tzI1u1">Block that change color</a><br>
+&#187; <a href="https://play.tailwindcss.com/wWndQ9FxeZ">Checkbox, buttons, radio, card, modal, dropdown, steps, chat-bubble</a><br>
+<a href=""></a><br>
+<a href=""></a><br>
+<a href=""></a><br>
