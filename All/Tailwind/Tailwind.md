@@ -20,7 +20,22 @@
 <li><a href="https://github.com/Vini0100/Tailwind-CSS">Tailwind css - basic to advanced [PT-BR]</a></li>
 <li><a href="https://duckduckgo.com/?t=h_&q=site%3Agithub.com+course+tailwind&ia=web">looking for courses</a></li>
 </ul>
-
+<hr>
+<h4>Projects made with Play>Tailwind</h4>
+&#187; <a href="https://play.tailwindcss.com/q6UQw13qXh">A login weell designed</a><br>
+&#187; <a href="https://play.tailwindcss.com/Xgi2tzI1u1">Block that change color</a><br>
+&#187; <a href="https://play.tailwindcss.com/wWndQ9FxeZ">Checkbox, buttons, radio, card, modal, dropdown, steps, chat-bubble - [USING daisyui component library]</a><br>
+&#187; <a href="https://play.tailwindcss.com/Vt0sBZTV8r">A iridescent button</a><br>
+&#187; <a href="https://play.tailwindcss.com/gVUhT4B7i6">Social networking icons mouse hover animation</a><br>
+&#187; <a href="https://play.tailwindcss.com/ZwMlFj9Lf8">Center blocks - flex items in 2 lines</a><br>
+&#187; <a href="https://play.tailwindcss.com/noyFslQS1N">Gradient example - background</a><br>
+&#187; <a href="https://play.tailwindcss.com/QwXW6fw9h7">Table with values - interesting</a><br>
+&#187; <a href="https://play.tailwindcss.com/w8s0hiUYon">Almost a Modal - add/reject cookies</a><br>
+&#187; <a href="https://play.tailwindcss.com/YuEMSb9ABD">Custom color inline class without external class create </a><br>
+&#187; <a href="https://play.tailwindcss.com/XtUOu2cDD9">Grid kidding - 12 collumns</a><br>
+&#187; <a href="https://play.tailwindcss.com/tPok1AamlJ">List-disc with [class inline]</a><br>
+&#187; <a href="https://play.tailwindcss.com/f8sjtJ2xNN">SVG fill current</a><br>
+&#187; <a href=""></a><br>
 <hr>
 <h3>Backgrounds - outline - @apply - rounded - FLEX - flex-row item-center - ml-10</h3>
 Link for the Tests<br>
@@ -54,11 +69,3 @@ font-bold text-white hover:bg-blue-700 active:bg-blue-800;
 <li>
 <a href="https://www.lipsum.com/">lorem ipsum</a></li>
 </ul>
-<hr>
-<h4>Projects made with Play>Tailwind</h4>
-&#187; <a href="https://play.tailwindcss.com/q6UQw13qXh">A login weell designed</a><br>
-&#187; <a href="https://play.tailwindcss.com/Xgi2tzI1u1">Block that change color</a><br>
-&#187; <a href="https://play.tailwindcss.com/wWndQ9FxeZ">Checkbox, buttons, radio, card, modal, dropdown, steps, chat-bubble</a><br>
-<a href=""></a><br>
-<a href=""></a><br>
-<a href=""></a><br>
