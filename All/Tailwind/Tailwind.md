@@ -31,7 +31,7 @@
 &#187; <a href="https://play.tailwindcss.com/noyFslQS1N">Gradient example - background</a><br>
 &#187; <a href="https://play.tailwindcss.com/QwXW6fw9h7">Table with values - interesting</a><br>
 &#187; <a href="https://play.tailwindcss.com/w8s0hiUYon">Almost a Modal - add/reject cookies</a><br>
-&#187; <a href="https://play.tailwindcss.com/YuEMSb9ABD">Custom color inline class without external class create </a><br>
+&#187; <a href="https://play.tailwindcss.com/YuEMSb9ABD">Custom color [class inline]</a><br>
 &#187; <a href="https://play.tailwindcss.com/XtUOu2cDD9">Grid kidding - 12 collumns</a><br>
 &#187; <a href="https://play.tailwindcss.com/tPok1AamlJ">List-disc with [class inline]</a><br>
 &#187; <a href="https://play.tailwindcss.com/f8sjtJ2xNN">SVG fill current</a><br>
