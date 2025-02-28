@@ -61,7 +61,8 @@ export default function Data(){
 <b>Arrow function - parameters - Not use -> { function_name (10) } Use-> (_) =>{...}</b><br>
 <img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/imgs/React12.png?raw=true"  ><br>
 <br>
-<b>Desestruturação da props - Disruption props</b><br>
+<b>Desestruturação da props - Destructing props</b><br>
+<b>Explicação Oficial em: </b> <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/Mais-React.md">Mais React - Índice I</a><br>
 <div style="background-color:#e8e7d7; color:#000;"><small><code> 
 &#60;Componente unidades={1} /&#62; <br> 
 &#60;Componente unidades={5} /&#62; <br>
