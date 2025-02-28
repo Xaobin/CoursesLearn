@@ -2,7 +2,7 @@
 
 <hr>
 
-#### I) Desestruturação de Props (Explicação do Copilot)
+####  Desestruturação de Props (Explicação do Copilot)
 
 <img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/imgs/React-Desestruturacao-Props1.png?raw=true"  >
 <br>
