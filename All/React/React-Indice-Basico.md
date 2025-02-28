@@ -1,4 +1,4 @@
-ÍTEMS para estudar REACTJS
+ÍTEMS para estudar REACTJS ............ Pergunta ao COPILOT
 <br>
 Olá! Por favor construa um índice de temas básicos para estudar sobre o ReactJS
 Claro! Aqui está um índice básico para você começar a estudar ReactJS:
@@ -29,17 +29,17 @@ Claro! Aqui está um índice básico para você começar a estudar ReactJS:
 <br>
 -- Estrutura de Pastas e Arquivos
 <br>
-4) Componentes .... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-componentes.md">Link</a>
+4) Componentes ... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Componentes.md">Link</a>
 <br>
 -- Componentes de Classe vs. Componentes Funcionais
 <br>
 -- Passagem de Props
 <br>
---Desestruturação ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Desestrutura.md">Link</a>
+--Desestruturação ... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Desestrutura.md">Link</a>
 <br>
 -- Gerenciamento de Estado
 <br>
-5) Hooks
+5) Hooks ... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Hooks.md">Link</a>
 <br>
 -- useState
 <br>
