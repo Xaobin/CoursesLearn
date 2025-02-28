@@ -3,6 +3,8 @@
 
 ### Curso completo de NextJS do youtube
 
+[Link do curso](https://www.youtube.com/playlist?list=PLtOMJw0mwbp1hfhMbw0uv29QZFdElmXAt)
+
 <hr>
 
 #### Como funciona o Nextjs
