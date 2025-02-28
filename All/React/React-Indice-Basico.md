@@ -39,11 +39,11 @@ Claro! Aqui está um índice básico para você começar a estudar ReactJS:
 <br>
 -- Passagem de Props
 <br>
---Desestruturação ... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Desestrutura.md">Link</a>
+--Desestruturação ... ... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Desestrutura.md">Link</a>
 <br>
 -- Gerenciamento de Estado
 <br>
-5) Hooks ... ... .... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Hooks.md">Link</a>
+5) Hooks ... ... ... ... ... ... .<a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Hooks.md">Link</a>
 <br>
 -- useState
 <br>
@@ -51,7 +51,7 @@ Claro! Aqui está um índice básico para você começar a estudar ReactJS:
 <br>
 -- Custom Hooks
 <br>
-6) Roteamento ... ... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Roteamento.md">Link</a>
+6) Roteamento ... ... ... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Roteamento.md">Link</a>
 <br>
 -- React Router
 <br>
@@ -59,7 +59,7 @@ Claro! Aqui está um índice básico para você começar a estudar ReactJS:
 <br>
 -- Parâmetros de Rota
 <br>
-7) Gerenciamento de Estado
+7) Gerenciamento de Estado ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Gereciam-Estado.md">Link</a>
 <br>
 -- Context API
 <br>
