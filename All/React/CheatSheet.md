@@ -2,6 +2,10 @@
 
 #### Cheat Sheet
 
+#### Wrappixel - cheat sheet
+
+<a href="https://blog.wrappixel.com/react-cheat-sheet/">Link - React - Wrappixel</a>
+<br>
 <img weight="600" height="400" src="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/imgs/CheatSheet01.png?raw=true">
 <br>
 *

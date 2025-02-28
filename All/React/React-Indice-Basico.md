@@ -29,11 +29,13 @@ Claro! Aqui está um índice básico para você começar a estudar ReactJS:
 <br>
 -- Estrutura de Pastas e Arquivos
 <br>
-4) Componentes
+4) Componentes .... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-componentes.md">Link</a>
 <br>
 -- Componentes de Classe vs. Componentes Funcionais
 <br>
 -- Passagem de Props
+<br>
+--Desestruturação ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Desestrutura.md">Link</a>
 <br>
 -- Gerenciamento de Estado
 <br>
