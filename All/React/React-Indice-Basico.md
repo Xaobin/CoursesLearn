@@ -33,17 +33,17 @@ Claro! Aqui está um índice básico para você começar a estudar ReactJS:
 <br>
 -- Estrutura de Pastas e Arquivos
 <br>
-4) Componentes ..... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Componentes.md">Link</a>
+4) Componentes __ __ __ __ __  __<a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Componentes.md">Link</a>
 <br>
 -- Componentes de Classe vs. Componentes Funcionais
 <br>
 -- Passagem de Props
 <br>
---Desestruturação ... ... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Desestrutura.md">Link</a>
+--Desestruturação  __ __ __ __ __<a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Desestrutura.md">Link</a>
 <br>
 -- Gerenciamento de Estado
 <br>
-5) Hooks ... ... ... ... ... ... .<a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Hooks.md">Link</a>
+5) Hooks  __ __ __ __ __ __ __ __ <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Hooks.md">Link</a>
 <br>
 -- useState
 <br>
@@ -51,7 +51,7 @@ Claro! Aqui está um índice básico para você começar a estudar ReactJS:
 <br>
 -- Custom Hooks
 <br>
-6) Roteamento ... ... ... ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Roteamento.md">Link</a>
+6) Roteamento  __ __ __ __ __ __ __<a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Roteamento.md">Link</a>
 <br>
 -- React Router
 <br>
@@ -59,7 +59,7 @@ Claro! Aqui está um índice básico para você começar a estudar ReactJS:
 <br>
 -- Parâmetros de Rota
 <br>
-7) Gerenciamento de Estado ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Gereciam-Estado.md">Link</a>
+7) Gerenciamento de Estado __ __ __<a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Gereciam-Estado.md">Link</a>
 <br>
 -- Context API
 <br>
@@ -67,13 +67,13 @@ Claro! Aqui está um índice básico para você começar a estudar ReactJS:
 <br>
 -- MobX
 <br>
-8) Manipulação de Eventos ... ... <a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Manipula-Eventos.md">Link</a
+8) Manipulação de Eventos  __ __ __<a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Manipula-Eventos.md">Link</a>
 <br>
 -- Eventos de Clique, Input, etc.
 <br>
 -- Eventos Sintéticos
 <br>
-9) Comunicação com APIs
+9) Comunicação com APIs __ __ __ __<a href="https://github.com/Xaobin/CoursesLearn/blob/main/All/React/React-Comunica-APIs.md">Link</a>
 <br>
 -- Fetch API
 <br>
