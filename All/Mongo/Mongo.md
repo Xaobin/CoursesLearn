@@ -3,6 +3,8 @@
 
 ### Basic information about MONGO DB
 
+#### Curso em vídeo do <a href="https://www.youtube.com/playlist?list=PLHAoMufdbcS5caJKgm_UHqHzSwHirqIQd">Youtube</a>
+
 <hr>
 
 #### Definição
@@ -66,6 +68,76 @@
 
 <img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo11Compass4Insert.png?raw=true"  >
 
-#### Show databases
+#### Insert
 
-<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo07.png?raw=true"  >
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo13Insert.png?raw=true"  >
+
+#### Update
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo13Update.png?raw=true"  >
+
+#### UpdateMany
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo13UpdateMany.png?raw=true"  >
+
+#### Comandos do site mongo
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo14ComandosSite.png?raw=true"  >
+
+#### Delete
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo14Delete.png?raw=true"  >
+
+#### Ambientendo-se com o compass
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo15AmbientandoCompass.png?raw=true"  >
+
+
+#### Operadores de comparação
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo16Opera.png?raw=true"  >
+
+#### Operadores lógicos
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo17Logic.png?raw=true"  >
+
+#### Operadores - Elementos
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo18Elem.png?raw=true"  >
+
+#### JS no mongo
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo19js.png?raw=true"  >
+
+#### Operadores de comparação - Testes I
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo20OperaTest.png?raw=true"  >
+
+#### Operadoes de comparação - Testes - II
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo20OperaTest2.png?raw=true"  >
+
+#### Operadores Lógicos - Testes - I
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo21Logic.png?raw=true"  >
+
+#### Operadores Lógicos - Testes - II
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo21Logic2.png?raw=true"  >
+
+#### Operadores Lógicos - Testes - III
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo21Logic3.png?raw=true"  >
+
+#### Operadores Lógicos - Testes - IV
+
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo21Logic4.png?raw=true"  >
+
+#### Operadores - Elementos - Testes - I
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo22Elem.png?raw=true"  >
+
+#### Operadores - Elementos - Testes - II
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo22Elem2.png?raw=true"  >
