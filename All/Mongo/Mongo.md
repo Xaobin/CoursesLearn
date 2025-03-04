@@ -50,7 +50,6 @@
 
 <img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo10.png?raw=true"  >
 
-
 #### Mongo DB - Ferramenta do Banco de dados:Compass - Obter caminho
 
 <img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo11CompassObterCaminho.png?raw=true"  >
@@ -92,7 +91,6 @@
 
 <img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo15AmbientandoCompass.png?raw=true"  >
 
-
 #### Operadores de comparação
 
 <img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo16Opera.png?raw=true"  >
@@ -131,7 +129,6 @@
 
 #### Operadores Lógicos - Testes - IV
 
-
 <img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo21Logic4.png?raw=true"  >
 
 #### Operadores - Elementos - Testes - I
@@ -141,3 +138,15 @@
 #### Operadores - Elementos - Testes - II
 
 <img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo22Elem2.png?raw=true"  >
+
+#### Recursos Adicionais I
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo23RecAdd.png?raw=true"  >
+
+#### Recursos Adicionais II
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo23RecAdd2.png?raw=true"  >
+
+#### Recursos Adicionais III
+
+<img src="https://github.com/Xaobin/CoursesLearn/blob/main/All/Mongo/imgs/Mongo23RecAdd3.png?raw=true"  >
