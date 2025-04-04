@@ -650,7 +650,7 @@ Esses são os conceitos essenciais para lidar com requisições e respostas no E
 
 ---
 
-### Handlebars com Express.js
+### **Template - Handlebars com Express.js**
 
  O Handlebars (ou hbs) é um mecanismo de template muito utilizado em conjunto com o Express.js para criar páginas dinâmicas e renderizar conteúdo no servidor. Ele facilita a separação entre a lógica do backend e a apresentação no frontend, tornando a manutenção do código mais simples.
 
@@ -741,6 +741,7 @@ Aqui está como você pode configurar o Handlebars em um projeto Express:
 ---
 
 ---
+### **Template - EJS com Express.js**
 
 O EJS (Embedded JavaScript) é outra popular template engine utilizada com Express.js para criar páginas dinâmicas no servidor. Ele é conhecido por sua simplicidade e sintaxe familiar, que combina JavaScript embutido em arquivos HTML.
 
@@ -843,6 +844,8 @@ EJS é uma ótima opção para criar páginas dinâmicas rapidamente, especialme
 ---
 
 ---
+
+### **WebSockets com Express.js**
 
 WebSockets é uma tecnologia poderosa que permite comunicação bidirecional em tempo real entre o cliente e o servidor, ideal para aplicações como chats, notificações em tempo real, games multiplayer e muito mais. No contexto do Express.js, embora o Express em si não tenha suporte nativo ao WebSockets, ele pode ser facilmente integrado a bibliotecas que lidam com WebSockets.
 
