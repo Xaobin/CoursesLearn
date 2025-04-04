@@ -26,8 +26,6 @@ Node.js é um ambiente de execução de código JavaScript baseado no motor V8 d
 **Por que aprender Node.js?**  
 
 Ele é uma escolha popular para construir aplicativos modernos, como APIs REST, aplicativos em tempo real (chat, streaming), sistemas escaláveis e muito mais. Além disso, sua curva de aprendizado é amigável, especialmente para quem já está familiarizado com JavaScript.
-
-Se precisar de mais detalhes ou exemplos práticos, é só pedir! 😊
    
    
 <hr>
@@ -296,9 +294,7 @@ A programação assíncrona é ideal para:
 ---
 
 ### **Resumo**
-A programação assíncrona é uma das razões pelas quais o Node.js é conhecido por sua alta performance e escalabilidade. Usando callbacks, Promises e `async/await`, você pode escrever código eficiente e fácil de manter, mesmo em aplicações complexas.
-
-Se precisar de exemplos práticos ou quiser explorar algum recurso específico, é só me dizer! 😊   
+A programação assíncrona é uma das razões pelas quais o Node.js é conhecido por sua alta performance e escalabilidade. Usando callbacks, Promises e `async/await`, você pode escrever código eficiente e fácil de manter, mesmo em aplicações complexas.   
    
 <hr>
 5. **Servidor HTTP Básico**  <br>
@@ -404,8 +400,6 @@ server.listen(3000, () => {
 ```
 
 ---
-
-Com isso, você terá uma base para entender como funciona um servidor HTTP no Node.js. Caso queira explorar rotas mais complexas ou conectar o servidor a um banco de dados, me avise! 😊🚀
 
 
 <hr>
