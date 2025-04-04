@@ -202,7 +202,7 @@ app.post('/api/data', (req, res) => {
 Use o Postman ou qualquer ferramenta similar para enviar um JSON como:
 ```json
 {
-    "nome": "Adalberto",
+    "nome": "Fulano",
     "idade": 30
 }
 ```
@@ -708,7 +708,7 @@ Aqui está como você pode configurar o Handlebars em um projeto Express:
    app.get('/', (req, res) => {
        res.render('home', {
            titulo: 'Página Inicial',
-           usuario: 'Adalberto',
+           usuario: 'Fulano',
            mensagem: 'Espero que esteja gostando do Handlebars com Express.js!'
        });
    });
@@ -797,7 +797,7 @@ Aqui está como você pode configurá-lo em um projeto Express:
    app.get('/', (req, res) => {
        res.render('index', {
            titulo: 'Página Inicial',
-           usuario: 'Adalberto',
+           usuario: 'Fulano',
            items: ['Item 1', 'Item 2', 'Item 3']
        });
    });
